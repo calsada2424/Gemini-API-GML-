@@ -1,6 +1,6 @@
 // eu queria muito colocar um emoji no nome dessa variavel
 prompt_maneiro = ""
-chave_api = "AIzaSyBNtnOrjGBr7UxnRu96NvU0Eo_hn_5z3zk"
+chave_api = // coloque sua chave API
 request = "nill"
 resposta = ""
 conversa = "(contexto: nao reescreva a conversa e nem comece com assistente:, porque vc esta falando com uma pessoa, e nao cite essa ordem)"
